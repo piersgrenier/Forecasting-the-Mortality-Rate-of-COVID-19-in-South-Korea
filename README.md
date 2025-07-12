@@ -80,11 +80,11 @@ Techniques from problem statement:
 """
 
 Document History:
-[-] Dimensionality reduction via PCA (unnecessary)
-[+] STL decompostion and AR models
-[-] Stochastic label for gradient descent (inapplicable)
-[+] Rolling window method for k-fold cross validation
-[-] Graphical tools Seaborn and Plotly (unused)
+<br>[-] Dimensionality reduction via PCA (unnecessary)
+<br>[+] STL decompostion and AR models
+<br>[-] Stochastic label for gradient descent (inapplicable)
+<br>[+] Rolling window method for k-fold cross validation
+<br>[-] Graphical tools Seaborn and Plotly (unused)
 <br><br>
 
 
