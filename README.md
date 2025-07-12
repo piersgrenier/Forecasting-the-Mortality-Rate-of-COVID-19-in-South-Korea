@@ -68,7 +68,7 @@ Expected output:
 #### Model Selection
 From the original problem statement:
 
-"""
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techniques:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Preprocessing through data cleaning, feature scaling, feature selection and dimensionality reduction via PCA
@@ -81,7 +81,7 @@ From the original problem statement:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e) Various graphical tools such as Seaborn, Matplotlib and Plotly to illustrate as well interpret results
 
-"""
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""
 
 Document History:
 <br>[-] removed dimensionality reduction via PCA (unnecessary)
