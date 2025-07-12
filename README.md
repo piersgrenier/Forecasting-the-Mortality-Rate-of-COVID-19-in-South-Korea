@@ -100,7 +100,7 @@ Now that we've settled on our models and findings, it is time to deliver the inf
 <br><br>
 
 
-#### Next steps
+#### Next Steps
 What suggestions do you have for next steps?
 <br><br>
 
