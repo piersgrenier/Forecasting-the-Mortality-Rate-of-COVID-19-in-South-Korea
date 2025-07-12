@@ -69,17 +69,17 @@ Expected output:
 From the original problem statement:
 
 """
-<br>Techniques:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techniques:
 
-(a) Preprocessing through data cleaning, feature scaling, feature selection and dimensionality reduction via PCA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Preprocessing through data cleaning, feature scaling, feature selection and dimensionality reduction via PCA
 
-(b) Time Series Decomposition and ARMA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Time Series Decomposition and ARMA
 
-(c) Stochastic Gradient Descent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Stochastic Gradient Descent
 
-(d) K-Fold Cross Validation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) K-Fold Cross Validation
 
-(e) Various graphical tools such as Seaborn, Matplotlib and Plotly to illustrate as well interpret results
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e) Various graphical tools such as Seaborn, Matplotlib and Plotly to illustrate as well interpret results
 
 """
 
