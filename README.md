@@ -35,7 +35,7 @@ Data consists of infection case, patient, regional and time series datasets in S
 
 (d) K-fold cross validation using rolling window method
 
-(e) Graphical analysis using Matplotlib to illustrate and interpret results (**EDIT**: Seaborn and Plotly are unused)
+(e) Graphical analysis using Matplotlib to illustrate and interpret results
 <br><br>
 
 
