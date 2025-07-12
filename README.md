@@ -40,12 +40,12 @@
 
 
 #### Data Preprocessing and Preparation Steps
-1. Filtered extraneous data through feature selection
-2. Dropped duplicate and missing rows in initial datasets
-3. Merged multiple clean datasets to acquire key features
-4. Dropped duplicate and missing rows in merged datasets
-5. Resolved structural errors in data (i.e. correcting data types)
-6. Refined data based on target variables, number of days data is recorded, and start as well as end dates for data collection
+1. Filtered extraneous data through feature selection<br>
+2. Dropped duplicate and missing rows in initial datasets<br>
+3. Merged multiple clean datasets to acquire key features<br>
+4. Dropped duplicate and missing rows in merged datasets<br>
+5. Resolved structural errors in data (i.e. correcting data types)<br>
+6. Refined data based on target variables, number of days data is recorded, and start as well as end dates for data collection<br>
 7. Performed outlier analysis
 <br><br>
 
