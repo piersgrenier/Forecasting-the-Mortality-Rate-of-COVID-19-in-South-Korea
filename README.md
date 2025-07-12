@@ -66,7 +66,7 @@ Expected output:
 
 
 #### Model Selection
-From the problem statement:
+From the original problem statement:
 
 """
 <br>Techniques:
