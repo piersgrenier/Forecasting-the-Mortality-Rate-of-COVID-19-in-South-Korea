@@ -12,7 +12,7 @@
   
 #### Executive summary</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The implementation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in researching new viruses and outbreak prevention. Otherwise, concerns should be raised for the potential threat of future pandemics. 
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -24,7 +24,7 @@
   
 #### Rationale</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research question is key in recognizing seasonal trends in COVID-19 related fatalities in South Korea and using said results for informative as well as research purposes. This time series analysis may also be extended to forecast the mortality rate of similar viruses in the future, which promotes pre-emption. Consequently, failure to answer the research question not only implies an inability to accurately forecast the mortality rate of COVID-19 patients based the aforementioned factors, but also a significant vulnerability to unfamiliar viruses in South Korea.
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data consists of infection case, patient, regional and time series datasets in South Korea. The final datasets will joins these data on related attributes to forecast mortality rate of COVID-19 patients based on the nature of infection cases, age and region. 
 - [Kaggle dataset](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset/data?select=Case.csv)
 - [Data description](https://www.kaggle.com/code/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -46,7 +46,7 @@
 (d) K-fold cross validation using rolling window method
 
 (e) Graphical analysis using Matplotlib to illustrate and interpret results
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -64,7 +64,7 @@
 6. Refined data based on target variables, number of days data is recorded, and start as well as end dates for data collection<br>
 
 7. Performed outlier analysis
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -80,7 +80,7 @@ Expected output:
 - baseline AR model experiences difficulty forecasting underlying patterns in data 
 - optimal ARMA model accurately forecasts underlying patterns in data
 - ARMA model outperforms AR model based on error metric
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -108,7 +108,7 @@ Document History:
 <br>[-] removed stochastic label for gradient descent (inapplicable)
 <br>[+] added specification of rolling window method for k-fold cross validation
 <br>[-] removed graphical tools Seaborn and Plotly (unused)
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
@@ -116,19 +116,19 @@ Document History:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Share your model evaluation here. What types of models did you consider for your problem (classification, regression, unsupervised)?  Articulate the evaluation metrics you used and how you determined which model was most optimal for your problem.
 
 
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
 #### Deployment</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now that we've settled on our models and findings, it is time to deliver the information to the client.  You should organize your work as a basic report that details your primary findings.  Keep in mind that your audience is a group of used car dealers interested in fine-tuning their inventory.
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
 #### Next Steps</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What suggestions do you have for next steps?
-<br><br>
+<br><br><br>
 
 <div align = "center">
   
