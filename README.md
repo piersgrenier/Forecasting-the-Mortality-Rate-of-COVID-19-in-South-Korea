@@ -10,7 +10,7 @@ This project aims to answer the question of whether or not, through machine lear
 
 
 #### Problem Statement
-Can we build a forecasting model to accurately predict the mortality rate of COVID-19 patients living in South Korea based on infection cases, age and region?
+Can we build a forecasting model to accurately predict the mortality rate of COVID-19 patients living in South Korea based on infection cases, age and province?
 <br><br>
 
 
