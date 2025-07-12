@@ -5,7 +5,7 @@
 <br><br>
 
 #### Executive summary
-This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The implementation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in researching new viruses and outbreak prevention. Otherwise, concerns should be raised for the potential threat of future pandemics. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The implementation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in researching new viruses and outbreak prevention. Otherwise, concerns should be raised for the potential threat of future pandemics. 
 <br><br>
 
 
@@ -15,7 +15,7 @@ Can we build a machine learning model to accurately forecast the mortality rate 
 
 
 #### Rationale
-The research question is key in recognizing seasonal trends in COVID-19 related fatalities in South Korea and using said results for informative as well as research purposes. This time series analysis may also be extended to forecast the mortality rate of similar viruses in the future, which promotes pre-emption. Consequently, failure to answer the research question not only implies an inability to accurately forecast the mortality rate of COVID-19 patients based the aforementioned factors, but also a significant vulnerability to unfamiliar viruses in South Korea.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research question is key in recognizing seasonal trends in COVID-19 related fatalities in South Korea and using said results for informative as well as research purposes. This time series analysis may also be extended to forecast the mortality rate of similar viruses in the future, which promotes pre-emption. Consequently, failure to answer the research question not only implies an inability to accurately forecast the mortality rate of COVID-19 patients based the aforementioned factors, but also a significant vulnerability to unfamiliar viruses in South Korea.
 <br><br>
 
 
