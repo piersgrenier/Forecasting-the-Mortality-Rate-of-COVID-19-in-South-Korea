@@ -69,7 +69,7 @@
 #### Model Outcomes and Predictions</div><br>
 For this regression task:
 - Unsupervised learning algorithms are STL decomposition and gradient descent
-- Supervised learning algorithms is AR forecasting
+- Supervised learning algorithm is AR forecasting
 - Other algorithm is ARMA forecasting
 
 Expected output:
