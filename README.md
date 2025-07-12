@@ -65,7 +65,7 @@ Expected output:
 From the problem statement:
 
 """
-Techniques from problem statement:
+<br>Techniques from problem statement:
 
 (a) Preprocessing through data cleaning, feature scaling, feature selection and dimensionality reduction via PCA
 
