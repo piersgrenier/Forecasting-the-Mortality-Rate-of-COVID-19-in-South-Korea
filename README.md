@@ -6,7 +6,9 @@
 **Piers Grenier** </div>
 <br>
 
-#### Executive summary
+<div align = "center">
+  
+#### Executive summary</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The implementation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in researching new viruses and outbreak prevention. Otherwise, concerns should be raised for the potential threat of future pandemics. 
 <br><br>
 
