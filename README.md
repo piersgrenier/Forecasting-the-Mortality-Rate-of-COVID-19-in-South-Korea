@@ -1,7 +1,7 @@
 ### Forecasting the Mortality Rate of COVID-19 in South Korea Final Report
 <br>
 
-**Piers Grenier**
+<center>**Piers Grenier**</center>
 <br><br>
 
 #### Executive summary
