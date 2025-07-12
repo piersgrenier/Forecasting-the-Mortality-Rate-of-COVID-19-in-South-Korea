@@ -84,11 +84,11 @@ From the original problem statement:
 """
 
 Document History:
-<br>[-] Dimensionality reduction via PCA (unnecessary)
-<br>[+] STL decompostion and AR models
-<br>[-] Stochastic label for gradient descent (inapplicable)
-<br>[+] Rolling window method for k-fold cross validation
-<br>[-] Graphical tools Seaborn and Plotly (unused)
+<br>[-] Removed dimensionality reduction via PCA (unnecessary)
+<br>[+] Added STL decompostion and AR models
+<br>[-] Removed stochastic label for gradient descent (inapplicable)
+<br>[+] Added specification of rolling window method for k-fold cross validation
+<br>[-] Removed graphical tools Seaborn and Plotly (unused)
 <br><br>
 
 
