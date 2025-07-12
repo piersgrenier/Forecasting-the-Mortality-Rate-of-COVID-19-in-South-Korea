@@ -101,7 +101,6 @@ From the original problem statement:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""
 
 Document History:
-
 <br>[-] removed dimensionality reduction via PCA (unnecessary)
 <br>[+] added STL decompostion and AR models
 <br>[-] removed stochastic label for gradient descent (inapplicable)
