@@ -1,4 +1,6 @@
-### Forecasting the Mortality Rate of COVID-19 in South Korea Final Report
+<div align = "center">
+  
+### Forecasting the Mortality Rate of COVID-19 in South Korea Final Report</div>
 <br>
 
 <div align = "center">
