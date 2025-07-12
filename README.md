@@ -10,7 +10,7 @@
 
 
 #### Problem Statement
-Can we build a machine learning model to accurately forecast the mortality rate of COVID-19 patients living in South Korea based on infection cases, age and province?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we build a machine learning model to accurately forecast the mortality rate of COVID-19 patients living in South Korea based on infection cases, age and province?
 <br><br>
 
 
@@ -20,7 +20,7 @@ Can we build a machine learning model to accurately forecast the mortality rate 
 
 
 #### Data Acquisition and Sources
-Data consists of infection case, patient, regional and time series datasets in South Korea. The final datasets will joins these data on related attributes to forecast mortality rate of COVID-19 patients based on the nature of infection cases, age and region. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data consists of infection case, patient, regional and time series datasets in South Korea. The final datasets will joins these data on related attributes to forecast mortality rate of COVID-19 patients based on the nature of infection cases, age and region. 
 - [Kaggle dataset](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset/data?select=Case.csv)
 - [Data description](https://www.kaggle.com/code/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
 <br><br>
@@ -93,19 +93,19 @@ Document History:
 
 
 #### Model Evaluation
-Share your model evaluation here. What types of models did you consider for your problem (classification, regression, unsupervised)?  Articulate the evaluation metrics you used and how you determined which model was most optimal for your problem.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Share your model evaluation here. What types of models did you consider for your problem (classification, regression, unsupervised)?  Articulate the evaluation metrics you used and how you determined which model was most optimal for your problem.
 
 
 <br><br>
 
 
 #### Deployment
-Now that we've settled on our models and findings, it is time to deliver the information to the client.  You should organize your work as a basic report that details your primary findings.  Keep in mind that your audience is a group of used car dealers interested in fine-tuning their inventory.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now that we've settled on our models and findings, it is time to deliver the information to the client.  You should organize your work as a basic report that details your primary findings.  Keep in mind that your audience is a group of used car dealers interested in fine-tuning their inventory.
 <br><br>
 
 
 #### Next Steps
-What suggestions do you have for next steps?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What suggestions do you have for next steps?
 <br><br>
 
 
