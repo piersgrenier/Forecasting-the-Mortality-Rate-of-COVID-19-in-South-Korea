@@ -37,7 +37,7 @@
 #### Methodology</div><br>
 (a) Preprocessing through data cleaning, feature selection and scaling
 
-(b) Seasonal-Trend decomposition using STL, autoregressive (AR) and autoregressive moving average (ARMA) time series forcasting
+(b) Seasonal-Trend decomposition using STL, autoregressive (AR) and autoregressive moving average (ARMA) time series forecasting
 
 (c) Gradient descent
 
