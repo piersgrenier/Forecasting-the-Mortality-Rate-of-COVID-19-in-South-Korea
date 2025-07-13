@@ -82,7 +82,7 @@ Expected output:
 <div align = "center">
   
 #### Model Selection</div><br>
-The decision to implement the AR and ARMA models was influenced by time series nature of the datasets used as well as the mission of building a forecasting model. Naturally, they are suitable for modeling the data and approaching the research question. 
+The decision to implement the AR and ARMA models was influenced by the time-oriented arrangement of datasets as well as mission of building a forecasting model. Naturally, they are suitable for modeling the data at hand and approaching the research question. 
 
 <br>From the original problem statement:
 
