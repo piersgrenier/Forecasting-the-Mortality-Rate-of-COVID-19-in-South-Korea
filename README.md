@@ -72,8 +72,8 @@ For this regression task:
 - Other algorithm is ARMA forecasting
 
 Expected output:
-- both AR and ARMA models have high forecast accuracy for young adults as well as patients living in less population dense provinces
-- both AR and ARMA models have lower forecast accuracy for the elderly as well as patients living in population dense provinces
+- both AR and ARMA models have high forecast accuracy for young adults as well as patients living in provinces with lower population density
+- both AR and ARMA models have lower forecast accuracy for the elderly as well as patients living in provinces with higher population density
 - baseline AR model experiences difficulty forecasting underlying patterns in data 
 - optimal ARMA model accurately forecasts underlying patterns in data
 - ARMA model outperforms AR model based on error metric
