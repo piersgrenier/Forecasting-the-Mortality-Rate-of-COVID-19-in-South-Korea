@@ -117,7 +117,7 @@ Document history:
 
 <div align = "center">
   
-#### Next Steps</div><br>
+#### Next Steps and Recommendations</div><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What suggestions do you have for next steps?
 <br><br><br>
 
