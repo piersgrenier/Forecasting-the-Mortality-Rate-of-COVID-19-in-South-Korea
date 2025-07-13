@@ -118,12 +118,6 @@ Document History:
 
 <div align = "center">
   
-#### Deployment</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now that we've settled on our models and findings, it is time to deliver the information to the client.  You should organize your work as a basic report that details your primary findings.  Keep in mind that your audience is a group of used car dealers interested in fine-tuning their inventory.
-<br><br><br>
-
-<div align = "center">
-  
 #### Next Steps</div><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What suggestions do you have for next steps?
 <br><br><br>
