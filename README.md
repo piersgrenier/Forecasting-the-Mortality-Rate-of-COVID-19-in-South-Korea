@@ -83,7 +83,7 @@ Expected output:
 <div align = "center">
   
 #### Model Selection</div><br>
-From the original problem statement:
+The selection of the AR and ARMA models was influenced by time series nature of the datasets used and the task of building a forecasting model. Naturally, these models were the first to come to mind for approaching the research question. From the original problem statement:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techniques:
@@ -106,9 +106,6 @@ Document History:
 <br>[-] removed stochastic label for gradient descent (inapplicable)
 <br>[+] added specification of rolling window method for k-fold cross validation
 <br>[-] removed graphical tools Seaborn and Plotly (unused)
-
-<br>
-The selection of the AR and ARMA models was influenced by time series nature of the datasets used and the task of building a forecasting model. Naturally, these models were the first to come to mind for tackling the research question. 
 <br><br><br>
 
 <div align = "center">
