@@ -102,7 +102,7 @@ The selection of the AR and ARMA models was influenced by time series nature of 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""
 
-Document History:
+Document history:
 <br>[-] removed dimensionality reduction via PCA (unnecessary)
 <br>[+] added STL decompostion and AR models
 <br>[-] removed stochastic label for gradient descent (inapplicable)
