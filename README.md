@@ -126,4 +126,4 @@ Document history:
 #### Outline of project</div><br>
 - [Exploratory Data Analysis](https://github.com/piersgrenier/Exploratory-Data-Analysis/blob/main/EDA.ipynb)
 - [Forecasting the Mortality Rate of COVID-19 in South Korea]()
-
+<br><br><br>
