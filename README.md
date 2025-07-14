@@ -68,8 +68,7 @@
 #### Model Outcomes and Predictions</div><br>
 For this regression task:
 - Unsupervised learning algorithms are STL decomposition and gradient descent
-- Supervised learning algorithm is AR forecasting
-- Other algorithm is ARMA forecasting
+- Supervised learning algorithms are AR and ARMA forecasting
 
 Expected output:
 - AR and ARMA models have higher forecast accuracy for young adults as well as patients living in provinces with smaller population density
