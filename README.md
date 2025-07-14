@@ -76,7 +76,7 @@ Expected output:
 - AR and ARMA models have lower forecast accuracy for the elderly as well as patients living in provinces with larger population density
 - AR model experiences difficulty forecasting underlying patterns in data 
 - ARMA model accurately forecasts underlying patterns in data
-- ARMA model outperforms AR model based on error metric
+- ARMA model outperforms AR model on all forecasts
 <br><br><br>
 
 <div align = "center">
