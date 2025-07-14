@@ -74,9 +74,9 @@ For this regression task:
 Expected output:
 - AR and ARMA models have higher forecast accuracy for young adults as well as patients living in provinces with smaller population density
 - AR and ARMA models have lower forecast accuracy for the elderly as well as patients living in provinces with larger population density
-- AR model experiences difficulty forecasting underlying patterns in data 
-- ARMA model accurately forecasts underlying patterns in data
-- ARMA model outperforms AR model on all forecasts
+- AR models experience difficulty forecasting underlying patterns in data 
+- ARMA models accurately forecast underlying patterns in data
+- ARMA models outperform AR model on all forecasts
 <br><br><br>
 
 <div align = "center">
