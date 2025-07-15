@@ -111,13 +111,7 @@ Document history:
 <div align = "center">
   
 #### Model Evaluation</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Share your model evaluation here. What types of models did you consider for your problem (classification, regression, unsupervised)?  Articulate the evaluation metrics you used and how you determined which model was most optimal for your problem.
-
-This project implements the AR and ARMA models for time series forecasting, which is typically a supervised learning task. In terms of evaluation, 
-
-- ARMA model outperforms AR model for all provinces
-
-In evaluating these models, both forecast the mortality rate of young to middle-aged adults more precisely than the elderly. However, the models have variable accuracy in forecasting mortality rates for provinces; they perform well on provinces with high population density compared to ones with very high or relatively low population density. The AR model also falls apart when it comes to forecasting non-linear mortality rates, whereas the ARMA model is able to extract some underlying patterns. Comparing the Mean Absolute Errors (MAEs) reveals that, although the AR model is slightly better at forecasting mortality rates based on age (lower MAEs), the ARMA forecasts of future province data are far superior. Overall, the baseline AR model is unable to capture the underlying patterns that the optimal ARMA model can, for this reason 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In evaluating these models, both forecast the mortality rate of young to middle-aged adults more precisely than the elderly. However, the models have variable accuracy in forecasting mortality rates for provinces; they perform well on provinces with high population density compared to ones with very high or relatively low population density. The AR model also falls apart when it comes to forecasting non-linear mortality rates, whereas the ARMA model is able to extract some underlying patterns. Comparing the Mean Absolute Errors (MAEs) reveals that, although the AR model is slightly better at forecasting mortality rates based on age (lower MAEs), the ARMA forecasts of future province data are far superior. One drawback of the latter is that finding the best ARMA model through grid search cross validation consumes much more time than building the AR model. Overall, the optimal ARMA model outperforms the baseline AR model in detecting the shape of future data beyond and yielding lower total MAEs. 
 <br><br><br>
 
 <div align = "center">
