@@ -111,13 +111,21 @@ Document history:
 <div align = "center">
   
 #### Model Evaluation</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In evaluating these models, both forecast the mortality rate of young to middle-aged adults more precisely than the elderly. The models also have variable accuracy in forecasting mortality rates for provinces; they perform well on provinces with high population density compared to ones with very high or relatively low population density. However, the AR model falls apart when it comes to forecasting non-linear mortality rates whereas the ARMA model is able to extract some underlying patterns. Comparing the Mean Absolute Errors (MAEs) reveals that, although the AR model is slightly better (lower MAE) at forecasting mortality rates based on age, the ARMA forecasts of future province data are far superior. One drawback of the latter is that finding the best ARMA model through grid search cross validation consumes much more time than building the AR model. Overall, the optimal ARMA model outperforms the baseline AR model in detecting the shape of future data beyond and yielding lower MAEs. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In evaluating these models, both forecast the mortality rate of young to middle-aged adults more precisely than the elderly. The models also have variable accuracy in forecasting mortality rates for provinces; they perform well on provinces with high population density compared to ones with very high or relatively low population density. However, the AR model falls apart when it comes to forecasting non-linear mortality rates whereas the ARMA model is able to extract some underlying patterns. Comparing the Mean Absolute Errors (MAEs) reveals that, although the AR model is slightly better (lower MAE) at forecasting mortality rates based on age, the ARMA forecasts of future province data are superior. One drawback is that building the best ARMA model through grid search cross validation consumes far more time than the AR model. Overall, the optimal ARMA model outperforms the baseline AR model in terms of detecting the trajectory of future mortality rates and yielding lower MAEs. 
 <br><br><br>
 
 <div align = "center">
   
 #### Next Steps and Recommendations</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What suggestions do you have for next steps?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, potential next steps to further research in viral outbreaks and improve the forecasting ability for COVID-19 mortality rates in South Korea include:
+1. Distributing the evaluation results to identify the flaws of AR and ARMA models
+2. Exploring other machine learning models for forecasting the mortality rate
+3. Testing a wider range of target variables to consolidate the effects of infection cases, age and province on mortality rates
+4. Considering new features such as the number of confirmed infections for forecasting
+5. Spreading news of any breakthroughs to the general public
+
+Some recommedations are to focus analysis on older patients who are most susceptible as well as population dense provinces where mortality rates are generally higher, implement preventative measures such as high mortality rate detection systems once models are expanded upon, and compare model results to ensure reproduciblity of any discoveries. 
+   
 <br><br><br>
 
 <div align = "center">
