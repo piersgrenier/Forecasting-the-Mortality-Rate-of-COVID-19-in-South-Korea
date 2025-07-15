@@ -1,6 +1,6 @@
 <div align = "center">
   
-### Forecasting the Mortality Rate of COVID-19 in South Korea Final Report</div>
+### Forecasting the Mortality Rate of COVID-19 in South Korea: Final Report</div>
 
 <div align = "center">Piers Grenier</div>
 <br>
