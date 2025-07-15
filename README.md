@@ -8,7 +8,7 @@
 <div align = "center">
   
 #### Executive Summary</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The implementation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in the research of new viruses and preventing outbreaks. Otherwise, concerns should be raised for the threat of future pandemics. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The incorporation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in the research of new viruses and preventing outbreaks. Otherwise, concerns should be raised for the threat of future pandemics. 
 <br><br><br>
 
 <div align = "center">
