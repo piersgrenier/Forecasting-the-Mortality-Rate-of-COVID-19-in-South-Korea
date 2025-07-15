@@ -67,14 +67,14 @@
   
 #### Model Outcomes and Predictions</div><br>
 For this regression task:
-- Unsupervised learning algorithms are STL decomposition and gradient descent
-- Supervised learning algorithms are AR and ARMA forecasting
+- unsupervised learning algorithms are STL decomposition and gradient descent
+- supervised learning algorithms are AR and ARMA forecasting
 
 Expected output:
 - AR and ARMA models have higher forecast accuracy for young adults as well as patients living in provinces with smaller population density
 - AR and ARMA models have lower forecast accuracy for the elderly as well as patients living in provinces with larger population density
-- AR models experience difficulty forecasting underlying patterns in data 
-- ARMA models accurately forecast underlying patterns in data
+- baseline AR models experience difficulty forecasting underlying patterns in data 
+- optimal ARMA models accurately forecast underlying patterns in data
 - ARMA models outperform AR model on all forecasts
 <br><br><br>
 
@@ -112,6 +112,15 @@ Document history:
   
 #### Model Evaluation</div><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Share your model evaluation here. What types of models did you consider for your problem (classification, regression, unsupervised)?  Articulate the evaluation metrics you used and how you determined which model was most optimal for your problem.
+
+This project implements the AR and ARMA models for time series forecasting, which is typically a supervised learning task. In terms of evaluation, 
+- both models have variable accuracy for forecasting the mortality rate for provinces with larger population density
+- both models perform well on middle-aged patients and provinces with moderate population density
+- AR model struggles to forecast non-linear patterns in data
+- ARMA model can forecast some structure from the future data
+- ARMA model outperforms AR model for all provinces
+
+In evaluating these models, both forecast the mortality rate of young to middle-aged adults more precisely than the elderly. However, the model forecasts have variable accuracy for provinces with different population densities; performing well on relatively high population density compared to provinces with very high or lower population density. Comparing the Mean Absolute Error (MAE) between the models Although the baseline AR model is slightly better at forecasting mortality rates based on age, the optimal ARMA model is superior overall in terms of capturing underlying patterns in the data and MAEs. 
 <br><br><br>
 
 <div align = "center">
