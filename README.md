@@ -122,7 +122,8 @@ Document history:
 2. Exploring other machine learning models for forecasting the mortality rate
 3. Testing a wider range of target variables to consolidate the effects of infection cases, age and province on mortality rates
 4. Considering new features such as the number of confirmed infections for forecasting
-5. Spreading news of any breakthroughs to the general public<br>
+5. Spreading news of any breakthroughs to the general public
+<br>
 
 Some recommedations are to focus analysis on older patients who are most susceptible as well as population dense provinces where mortality rates are generally higher, implement preventative measures such as high mortality rate detection systems once models are expanded upon, and compare experiment results to ensure reproduciblity of any discoveries. 
 <br><br><br>
