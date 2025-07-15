@@ -8,7 +8,7 @@
 <div align = "center">
   
 #### Executive Summary</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The incorporation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in the research of new viruses and preventing outbreaks. Otherwise, concerns should be raised for the threat of future pandemics. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to answer the question of whether or not, through machine learning techniques, it is possible to forecast the mortality rate of patients living in South Korea based on their infection case, age and province of residence. The incorporation of these techniques on existing COVID-19 data in South Korea must be evaluated to determine the validity of any findings. If successful, the intel drawn from these results could prove invaluable in the research of modern viruses and preventing outbreaks. Otherwise, concerns should be raised for the threat of future pandemics. 
 <br><br><br>
 
 <div align = "center">
@@ -121,11 +121,11 @@ Document history:
 1. Distributing the evaluation results to identify the flaws of AR and ARMA models
 2. Exploring other machine learning models for forecasting the mortality rate
 3. Testing a wider range of target variables to consolidate the effects of infection cases, age and province on mortality rates
-4. Considering new features such as the number of confirmed infections for forecasting
+4. Considering alternative features such as the number of confirmed infections for forecasting
 5. Spreading news of any breakthroughs to the general public
 <br>
 
-Some recommedations are to focus analysis on older patients who are most susceptible as well as population dense provinces where mortality rates are generally higher, implement preventative measures such as high mortality rate detection systems once models are expanded upon, and compare experiment results to ensure reproduciblity of any discoveries. 
+Some recommedations are to focus analysis on older patients who are most susceptible as well as population dense provinces where mortality rates are generally higher, implement preventative measures such as high mortality rate detection systems once models are expanded upon, and compare experimental results to ensure reproduciblity of any new discoveries. 
 <br><br><br>
 
 <div align = "center">
