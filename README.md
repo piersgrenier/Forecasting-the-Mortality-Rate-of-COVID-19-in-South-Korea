@@ -124,7 +124,7 @@ Document history:
 4. Considering new features such as the number of confirmed infections for forecasting
 5. Spreading news of any breakthroughs to the general public
 
-Some recommedations are to focus analysis on older patients who are most susceptible as well as population dense provinces where mortality rates are generally higher, implement preventative measures such as high mortality rate detection systems once models are expanded upon, and compare model results to ensure reproduciblity of any discoveries. 
+Some recommedations are to focus analysis on older patients who are most susceptible as well as population dense provinces where mortality rates are generally higher, implement preventative measures such as high mortality rate detection systems once models are expanded upon, and compare experiment results to ensure reproduciblity of any discoveries. 
 <br><br><br>
 
 <div align = "center">
