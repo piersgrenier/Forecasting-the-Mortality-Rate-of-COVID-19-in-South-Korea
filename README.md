@@ -26,7 +26,7 @@
 <div align = "center">
   
 #### Data Acquisition and Sources</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data consists of infection case, patient, regional and time series datasets in South Korea. The final datasets will joins these data on related attributes to forecast mortality rate of COVID-19 patients based on the nature of infection cases, age and region. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data consists of infection case, patient, regional and time series datasets in South Korea. These datasets will be joined on related attributes to forecast the mortality rate of COVID-19 based on infection case, age and province data. 
 - [Kaggle dataset](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset/data?select=Case.csv)
 - [Data description](https://www.kaggle.com/code/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
 <br><br><br>
