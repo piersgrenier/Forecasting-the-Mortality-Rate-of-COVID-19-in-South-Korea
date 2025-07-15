@@ -14,7 +14,7 @@
 <div align = "center">
   
 #### Problem Statement</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we build a machine learning model to accurately forecast the mortality rate of COVID-19 patients living in South Korea based on infection cases, age and province?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we build a machine learning model to accurately forecast the mortality rate of COVID-19 patients living in South Korea based on infection case, age and province?
 <br><br><br>
 
 <div align = "center">
