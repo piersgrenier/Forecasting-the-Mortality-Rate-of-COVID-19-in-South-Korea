@@ -117,7 +117,7 @@ Document history:
 <div align = "center">
   
 #### Next Steps and Recommendations</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, potential next steps to further research in viral outbreaks and improve the forecasting ability for COVID-19 mortality rates in South Korea include:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, potential next steps to furthering research of viral outbreaks and improving the forecasting ability for COVID-19 mortality rates in South Korea include:
 1. Distributing the evaluation results to identify the flaws of AR and ARMA models
 2. Exploring other machine learning models for forecasting the mortality rate
 3. Testing a wider range of target variables to consolidate the effects of infection cases, age and province on mortality rates
