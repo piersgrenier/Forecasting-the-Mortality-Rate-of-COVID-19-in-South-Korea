@@ -20,7 +20,7 @@
 <div align = "center">
   
 #### Rationale</div><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research question is key in recognizing fluctuations in COVID-19 related fatalities in South Korea and using said results for informative as well as research purposes. This time series analysis may also be extended to forecast the mortality rate of similar viruses in the future, which promotes pre-emption. Consequently, failure to answer the research question not only implies an inability to accurately forecast the mortality rate of COVID-19 patients based the aforementioned factors, but also a significant vulnerability to unfamiliar viruses in South Korea.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The research question is key in recognizing fluctuations in COVID-19 related fatalities in South Korea and using said results for informative as well as research purposes. This time series analysis may also be extended to forecast the mortality rate of similar viruses in the future, which promotes pre-emption. Consequently, failure to answer the research question not only implies an inability to accurately forecast the mortality rate of COVID-19 patients based the aforementioned factors, but also a significant vulnerability to unfamiliar viruses in general.
 <br><br><br>
 
 <div align = "center">
